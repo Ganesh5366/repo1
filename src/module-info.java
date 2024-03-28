@@ -1,0 +1,2 @@
+module Javatest {
+}
